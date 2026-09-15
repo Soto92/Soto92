@@ -1,6 +1,49 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+```text
+MMMMMMMMMMMMMMMMMMMMMMMMMWWNNXXXXXNNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWKkddolc:;;;;;;;;;:oxO0XNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWNKOd:..  ..... .....     ...,ckNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMWXOo,.............. .....         .ckkk0NMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMWXx;.   .............                 ....cONMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMWXOo,.   ........... ..                       .l0WMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMNk,     ....           ............             .oXMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMWKl.   ....       ..,::::::::::::;''.....          cKMMMMMMMMMMMMMMMMMMMMMM
+MMMMNx'   ....      ..,coxxxxxddooollc:;,,....          .oNMMMMMMMMMMMMMMMMMMMMM
+MMMWx.   ..    ..,:clodkkOkkkxxddoooolc:;;,'..           .OMMMMMMMMMMMMMMMMMMMMM
+MMMXc   ...  ..cdkkkOOOOOOOkkkxxdoooolc:;;,,'..           cXMMMMMMMMMMMMMMMMMMMM
+MMMK;   .....,oxkOOOOOO0OOOkkkkxxdddoolc::;,''...         .xWMMMMMMMMMMMMMMMMMMM
+MMWO,     ..,okOOOO00000OOOOOOkkxxxdoc:;;;,'......         ;KMMMMMMMMMMMMMMMMMMM
+MMW0;      'lxkOOOOO000O0000OOkkxo:,''',,''........        .oNMMMMMMMMMMMMMMMMMM
+MMMNo.    .;oxkkkOOO0000KK0Okxdl;...,:c::;'.........        'dXWMMMMMMMMMMMMMMMM
+MMMWO'    .;oxxkkOO000000Okkxo:'..';cc:'......';;,'..     ....:OWMMMMMMMMMMMMMMM
+MMMMNo.   .;ldxkOOOkkxddxkkkxo:'.',,;:,...''',:cc:,...   ......;kWMMMMMMMMMMMMMM
+MMMMMK:    'coxxdl:;'',;cdO0Odc'.,:ccoolcccclooolc;'.... .......:0MMMMMMMMMMMMMM
+MMMMMWO,   .:ll:;,;;;,'',cdOOxl;,:ldxxddddxxxxdolc;'............'xWMMMMMMMMMMMMM
+MMMMMMWk,   ';;:cccc;'.';cdxOOd:;:loxkkkkkkkxxdlc:;'.............dNMMMMMMMMMMMMM
+MMMMMMMW0;. .';:;,,,'',coxkkkOkoc:ccoxOOOOOkxdolc;,''............dNMMMMMMMMMMMMM
+MMMMMMMMWO,  .:c:;;cllodkOOkkOOkdl::ccdkOOOkxdol:;,''............oNMMMMMMMMMMMMM
+MMMMMMMMMWO,..;odddddxkO0OkkkO0Od:'...':oxkxdolc:;,''...........,xWMMMMMMMMMMMMM
+MMMMMMMMMMW0:.'lxxkOOO000Oxxddoc;.....':codddlcc:;,'.............oXMMMMMMMMMMMMM
+MMMMMMMMMMMMKl,:dxkOOO00Oxdo:,,,....',:cccccc:::c:,'...........   ,kNMMMMMMMMMMM
+MMMMMMMMMMMMMKo:lxkkkOOkxxkOxooolcclc::;;,'..';clc,............    .c0WMMMMMMMMM
+MMMMMMMMMMMMMWKdlodxxxxxdxkkkxddolc:;;,,,'...;colc,............      .lKWWMMMMMM
+MMMMMMMMMMMMMMWXkolodddddddoll:;:cllol:;;;,,:llcc;'...........        .':cldk0XN
+MMMMMMMMMMMMMMMWNOolloooooo:,,;cool:;;::::cccc:;;,...........      .........',;:
+MMMMMMMMMMMMMMMMMWOlclooddolcoddolllodddddolc;,,'...........     ...........''''
+MMMMMMMMMMMMMMMMMWKxocclloooodddddxkkOkxxdol:,''...........   .........'...',,,,
+MMMMMMMMMMMMMMMMMWXOddoc::ccclloodxxkxddolc;,............   ...........'...,;;;;
+MMMMMMMMMMMMMMMMMMMWNWN0dc;;::clloooollc:;,............   ............''...,;;;,
+MMMMMMMMMMMMMMMMMMMMMMMMWKxc;,;;::::;,'..............   ...........''''...';;;,,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMNOl,''''...............     ........''''''',...';:;;;
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc.................    .........''',,..,;...';;:;;
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXl.................. ...''''.'''',,,'..;;...';:::;
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMWKo'. .................',,,'''''',,;;'. .;;....;:::;
+MMMMMMMMMMMMMMMMMMMMMMMMMMWXx:,..  .,,''''........,;;,,'',,,,,;;,.  ':;'...;:::;
+MMMMMMMMMMMMMMMMMMMMMMMMN0xc,,'.... .,:::;;,,''',;::;,,,,,,,;;;,.  .,:;'...;:::;
+MMMMMMMMMMMMMMMMMMMMMWXkl;,,,,'..... .;clllcc:;'...'',,;;;;;;;,.   .;::,..';::::
+MMMMMMMMMMMMMMMMMMMMNOl;,',',;,'....  .:lloooc'.    ..',;;;;;;'    .;::,..';::::
+```
+
+
 
 <h1 align="center">Hi, I'm Mauricio 👋</h1>
 <p align="center">
